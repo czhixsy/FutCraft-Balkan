@@ -1,0 +1,10 @@
+BungeeSupport:
+  Enabled: false
+AuthMeSupport:
+  Enabled: false
+JoinMessage:
+  Enabled: true
+  Message: '&a&lJOIN &f %player_name%'
+QuitMessage:
+  Enabled: true
+  Message: '&c&lQUIT &f %player_name%'
