@@ -1,0 +1,8 @@
+enabledCommands: ''
+arenas:
+  2v2:
+    amount: 0
+  3v3:
+    amount: 0
+  4v4:
+    amount: 0
