@@ -1,0 +1,15 @@
+minecraft_chat_bot 1.2
+
+Izmene 1.1
++ Dodat Custom DiscordToMinecraftMessage.
++ Dodat Custom MinecraftToDiscordMessage.
++ Pomeren pogled na rolovima zbog Postojeceg Problema.
++ Popravljen Lag nad botom.
+
+Izmene 1.2 
++ Fixan Problem [ Chatovi se mogu videti kad su poslani sa DiscordToMinecraftChat ]
++ Customized GUI
++ Fixan Syntax Eror ( %channelcolor%[%channelnickname%]&r %message% )
++ Prevedeni Start Up Message i Stop Message ( Server je Upaljen!, Server je Ugasen!)
+
+Rad na Pluginu je korektno zavrsen 1.2 je Uradjena Verzija Plugina.
