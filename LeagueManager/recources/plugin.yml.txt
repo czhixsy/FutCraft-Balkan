@@ -1,0 +1,4 @@
+name:LeagueManager
+version:1.5
+Status: U Nadogradnji!
+Description: Za lakse vodjenje lige.
